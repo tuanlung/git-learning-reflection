@@ -9,4 +9,8 @@
        track. 
        And the repository stores only committed changes. 
 
+# How can you use the staging area to make sure you have one commit per logical change?
+@ Ans: With multiple files being edited, we can add logically related ones to staging area 
+       and commit them at a time. Then do the same for the other files.
+
 
