@@ -1,0 +1,5 @@
+# What happens when you initialize a repository? Why do you need to do it?
+@ Ans: Git will create a .git directory and start to trace all changes. We need to do this
+       to make it a git repository 
+
+
