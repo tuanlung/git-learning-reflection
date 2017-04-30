@@ -2,4 +2,11 @@
 @ Ans: Git will create a .git directory and start to trace all changes. We need to do this
        to make it a git repository 
 
+# How is the staging area different from the working directory and the repository? 
+  What value do you think it offers?
+@ Ans: Staging area provides a space to record changes that users want to commit in the future.
+       On the other hand, working directory can have other files that users don't want to 
+       track. 
+       And the repository stores only committed changes. 
+
 
