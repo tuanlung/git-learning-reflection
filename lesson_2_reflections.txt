@@ -13,4 +13,7 @@
 @ Ans: With multiple files being edited, we can add logically related ones to staging area 
        and commit them at a time. Then do the same for the other files.
 
-
+# What are some situations when branches would be helpful in keeping your history organized? 
+  How would branches help?
+@ Ans: When we are making some major changes that we don't want to affect current production
+       code, we can add a branch.
