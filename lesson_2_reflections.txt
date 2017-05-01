@@ -26,3 +26,7 @@
 @ Ans: We end up adding a new commit that has code from both branches. And the commit
        has two parent commits from two branches. We represented the diagram in that way just 
        to illustrate that each commit knows only its parent(s).
+
+# What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+@ Ans: Pros is that Git might make mistakes. Cons in that it's painful to manually merge
+       because some of the changes could be made by others. 
