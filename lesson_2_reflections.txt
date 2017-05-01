@@ -17,3 +17,8 @@
   How would branches help?
 @ Ans: When we are making some major changes that we don't want to affect current production
        code, we can add a branch.
+
+# How do the diagrams help you visualize the branch structure?
+@ Ans: We can see the branch-splitting commits, and thus trace the changes.
+
+
