@@ -5,3 +5,14 @@
   stay up-to-date with your remote repository?
 @ Ans: Because when you are working on something locally, you don't want to sync up with 
        other people's changes until you feel ready to.
+
+# Describe the differences between forks, clones, and branches. When would you use one 
+  instead of another?
+@ Ans: Fork is effectively the same as doing git clone on github's server. And github 
+       made it easier to reference to the original author of the code and contribute to
+       the original author's repository by using fork.
+       Clone is a git feature to duplicate a repository from a remote repository.
+       Branch is just a label on a commit that help describe the relationships between 
+       commits.
+
+
