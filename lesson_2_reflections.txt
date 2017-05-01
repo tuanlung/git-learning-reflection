@@ -21,4 +21,8 @@
 # How do the diagrams help you visualize the branch structure?
 @ Ans: We can see the branch-splitting commits, and thus trace the changes.
 
-
+# What is the result of merging two branches together? Why do we represent it in the diagram
+  the way we do?
+@ Ans: We end up adding a new commit that has code from both branches. And the commit
+       has two parent commits from two branches. We represented the diagram in that way just 
+       to illustrate that each commit knows only its parent(s).
